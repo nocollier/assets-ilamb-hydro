@@ -1,0 +1,117 @@
+ACCESS-CM2:
+  color: '#8c564b'
+  modelname: ACCESS-CM2
+  path: null
+  paths:
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/evspsbl/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/hfls/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/hfss/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/hurs/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/pr/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/rlds/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/rlus/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/rsds/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/rsus/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/tas/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/tasmax/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/tasmin/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/LImon/snw/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Lmon/mrro/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Lmon/mrsos/gn/v20191108
+BCC-CSM2-MR:
+  color: '#9467bd'
+  modelname: BCC-CSM2-MR
+  path: null
+  paths:
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/evspsbl/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/hfls/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/hfss/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/pr/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/rlds/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/rlus/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/rsds/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/rsus/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/tas/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/tasmax/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/tasmin/gn/v20181126
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/LImon/snw/gn/v20181114
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Lmon/mrro/gn/v20181114
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Lmon/mrsos/gn/v20181114
+CNRM-ESM2-1:
+  color: '#d62728'
+  modelname: CNRM-ESM2-1
+  path: null
+  paths:
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/evspsbl/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/hfls/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/hfss/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/hurs/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/pr/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/rlds/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/rlus/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/rsds/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/rsus/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/tas/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/tasmax/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/tasmin/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/LImon/snw/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Lmon/mrro/gr/v20181206
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Lmon/mrsos/gr/v20181206
+MPI-ESM1-2-HR:
+  color: '#1f77b4'
+  modelname: MPI-ESM1-2-HR
+  path: null
+  paths:
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/evspsbl/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/hfls/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/hfss/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/hurs/gn/v20190815
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/pr/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rlds/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rlus/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rsds/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rsus/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/tas/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/tasmax/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/tasmin/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/LImon/snw/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/mrro/gn/v20190710
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/mrsos/gn/v20190710
+MRI-ESM2-0:
+  color: '#ff7f0e'
+  modelname: MRI-ESM2-0
+  path: null
+  paths:
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/evspsbl/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/hfls/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/hfss/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/hurs/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/pr/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/rlds/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/rlus/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/rsds/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/rsus/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/tas/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/tasmax/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/tasmin/gn/v20190222
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/LImon/snw/gn/v20190603
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Lmon/mrro/gn/v20190603
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Lmon/mrsos/gn/v20190603
+NorESM2-MM:
+  color: '#2ca02c'
+  modelname: NorESM2-MM
+  path: null
+  paths:
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/evspsbl/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/hfls/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/hfss/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/hurs/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/pr/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/rlds/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/rlus/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/rsds/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/rsus/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/tas/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/LImon/snw/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Lmon/mrro/gn/v20191108
+  - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Lmon/mrsos/gn/v20191108
