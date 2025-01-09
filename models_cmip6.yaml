@@ -115,3 +115,8 @@ NorESM2-MM:
   - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/LImon/snw/gn/v20191108
   - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Lmon/mrro/gn/v20191108
   - /lustre/orion/cli137/world-shared/ESGF-data/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Lmon/mrsos/gn/v20191108
+
+ACCESS_DBCCA_Daymet:
+  color: '#8c564b'
+  modelname: ACCESS_DBCCA_Daymet
+  path: /lustre/orion/cli138/proj-shared/dr6/ILAMB-Hydro/Data/Downscaled/DBCCA_Daymet/ACCESS
