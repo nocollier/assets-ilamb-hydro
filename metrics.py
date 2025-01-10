@@ -22,15 +22,15 @@ def metrics(da: xr.Dataset | xr.DataArray, varname: str | None = None) -> xr.Dat
         assert varname is not None
         da = da[varname]
     out = {}
-    out["annual_mean"] = da.mean(dim="time")  # already in ILAMB
-    out["annual_std"] = da.std(dim="time")
     grp = da.groupby("time.year")
-    out["seasonal_mean"] = grp.mean().mean(dim="year")
-    out["seasonal_std"] = grp.std().mean(dim="year")
-    grp = da.groupby("time.year")
+    out["annual_mean"] = grp.mean().mean(dim="year")  # mean of mean is the same
+    out["annual_std"] = grp.mean().std(dim="year")
     amp = grp.max() - grp.min()
     out["amplitude_mean"] = amp.mean(dim="year")
     out["amplitude_std"] = amp.std(dim="year")
+    grp = da.groupby("time.season")
+    out["seasonal_mean"] = grp.mean()
+    out["seasonal_std"] = grp.std()
     cycle = da.groupby("time.month").mean()
     out["peak_timing"] = cycle.argmax(dim="month")
     return xr.Dataset(out)
